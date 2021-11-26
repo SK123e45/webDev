@@ -6,4 +6,4 @@ That's great!
 
 Test one more time	
 
-What am I doning Now ?
+What am I doing Now ?
